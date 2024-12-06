@@ -1,0 +1,58 @@
+[
+  {
+    "question": "다른 사람들과 있을 때 에너지를 얻나요?",
+    "options": [
+      { "answer": "예", "type": "E" },
+      { "answer": "아니요", "type": "I" }
+    ]
+  },
+  {
+    "question": "세부적인 정보를 선호하나요?",
+    "options": [
+      { "answer": "예", "type": "S" },
+      { "answer": "아니요", "type": "N" }
+    ]
+  },
+  {
+    "question": "논리와 분석이 중요하다고 생각하나요?",
+    "options": [
+      { "answer": "예", "type": "T" },
+      { "answer": "아니요", "type": "F" }
+    ]
+  },
+  {
+    "question": "계획을 세우고 따르는 것을 좋아하나요?",
+    "options": [
+      { "answer": "예", "type": "J" },
+      { "answer": "아니요", "type": "P" }
+    ]
+  },
+  {
+    "question": "혼자 있는 시간을 통해 재충전하나요?",
+    "options": [
+      { "answer": "예", "type": "I" },
+      { "answer": "아니요", "type": "E" }
+    ]
+  },
+  {
+    "question": "추상적인 아이디어보다 실제 경험을 더 선호하나요?",
+    "options": [
+      { "answer": "예", "type": "S" },
+      { "answer": "아니요", "type": "N" }
+    ]
+  },
+  {
+    "question": "타인의 감정에 공감하는 것이 중요하다고 생각하나요?",
+    "options": [
+      { "answer": "예", "type": "F" },
+      { "answer": "아니요", "type": "T" }
+    ]
+  },
+  {
+    "question": "마감일을 지키기 위해 미리 계획을 세우는 편인가요?",
+    "options": [
+      { "answer": "예", "type": "J" },
+      { "answer": "아니요", "type": "P" }
+    ]
+  }
+]
